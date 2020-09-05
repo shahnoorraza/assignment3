@@ -7,7 +7,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Detail name="Shahnoor" subject="Cloud native Computing" />
+      <Detail name="Shahnoor Raza" subject="Cloud native Computing" />
     </div>
 
     
